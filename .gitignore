@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+models/*.pkl
+
+outputs/*.csv
+outputs/*.png
+
+.streamlit/secrets.toml
